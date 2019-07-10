@@ -1,0 +1,7 @@
+{
+  "name": "Wishes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
